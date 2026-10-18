@@ -374,5 +374,5 @@ button { font: inherit; }
   font-style: normal;
   font-weight: 400 800;
   font-display: swap;
-  src: url("assets/fonts/lexend-latin.woff2") format("woff2");
+  src: url("./lexend-latin.woff2") format("woff2");
 }
